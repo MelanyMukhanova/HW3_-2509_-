@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Сгенерированные данные
+data/*.csv
+data/*.html
+local_data/
+
+# Node.js зависимости
+node_modules/
